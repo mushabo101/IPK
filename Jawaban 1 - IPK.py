@@ -1,14 +1,4 @@
 #list untuk menyimpan setiap input
-NIM = []
-Nama = []
-Alamat = []
-AsalSekolah = []
-KodeProdi = []
-IPKAwal = []
-Nilai_UTS_UAS_TM = []
-NilaiIPS = []
-IPKAkhir = []
-Beasiswa = []
 u = []
 v = []
 x = int(input('Masukkan Jumlah yang ingin diinput : ')) #variabel jumlah yang ingin di input
